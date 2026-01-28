@@ -1,0 +1,13 @@
+{
+  "past_runs": [],
+  "preferences": {
+    "work_start": "09:00",
+    "work_end": "17:00",
+    "daily_capacity_minutes": 8,
+    "estimation_bias": 1.0
+  },
+  "aggregates": {
+    "average_completion_rate": null,
+    "average_estimation_error_minutes": 0
+  }
+}
