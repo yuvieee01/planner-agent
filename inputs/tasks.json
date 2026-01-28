@@ -1,0 +1,52 @@
+{
+  "tasks": [
+    {
+      "id": "T1",
+      "title": "Prepare XOR MLP README",
+      "description": "Write README for the MLP XOR project with usage, diagrams, and training results.",
+      "estimated_minutes": 90,
+      "deadline": "2026-01-29T18:00:00",
+      "importance": 4,
+      "tags": ["writing", "project"],
+      "status": "pending"
+    },
+    {
+      "id": "T2",
+      "title": "Fix C++ second-largest bug",
+      "description": "Debug and add tests for the second-largest element program.",
+      "deadline": "2026-01-28T23:00:00",
+      "importance": 5,
+      "tags": ["coding", "bugfix"],
+      "status": "pending"
+    },
+    {
+      "id": "T3",
+      "title": "Plan machine learning study block",
+      "description": "Plan syllabus and create flashcards for upcoming ML exam topics.",
+      "estimated_minutes": 120,
+      "deadline": "2026-02-02T20:00:00",
+      "importance": 3,
+      "tags": ["study"],
+      "status": "pending"
+    },
+    {
+      "id": "T4",
+      "title": "Weekly groceries",
+      "description": "Buy groceries for the week. Quick run to the market.",
+      "estimated_minutes": 60,
+      "importance": 1,
+      "tags": ["life"],
+      "status": "pending"
+    },
+    {
+      "id": "T5",
+      "title": "Refactor schedule planner",
+      "description": "Refactor schedule planner to make planning deterministic and add unit tests.",
+      "estimated_minutes": 180,
+      "deadline": "2026-02-05T23:59:00",
+      "importance": 3,
+      "tags": ["coding", "refactor"],
+      "status": "pending"
+    }
+  ]
+}
